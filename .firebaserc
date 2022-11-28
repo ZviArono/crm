@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "w0311-crm-zvi": {
+      "hosting": {
+        "crm": [
+          "w0311-crm-zvi"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "w0311-crm-zvi"
+  }
+}
